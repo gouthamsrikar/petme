@@ -1,0 +1,560 @@
+[
+  {
+    "id": "1",
+    "pet_name": "Bella",
+    "gender": "female",
+    "category": "dog",
+    "color": "black",
+    "breed": "Labrador Retriever",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://goofytails.com/cdn/shop/files/labrador-retriever_1000x.jpg"
+    ],
+    "price": "21",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner1",
+    "owner_phone": "123-456-7801",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/1.jpg"
+  },
+  {
+    "id": "2",
+    "pet_name": "Kiwi",
+    "gender": "male",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Cockatiel",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVinlLmisZUSvbNmuIAqx6FD4TCoh7qIy2Sw&s"
+    ],
+    "price": "22",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner2",
+    "owner_phone": "123-456-7802",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/2.jpg"
+  },
+  {
+    "id": "5",
+    "pet_name": "Luna",
+    "gender": "female",
+    "category": "cat",
+    "color": "white",
+    "breed": "Siamese",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://www.thesprucepets.com/thmb/OoMBiCxD3B02Jx-WO9dmY0DAaaI=/4000x0/filters:no_upscale():strip_icc()/cats-recirc3_2-1f5de201af94447a9063f83249260aff.jpg"
+    ],
+    "price": "25",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner5",
+    "owner_phone": "123-456-7805",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/5.jpg"
+  },
+  {
+    "id": "6",
+    "pet_name": "Charlie",
+    "gender": "male",
+    "category": "dog",
+    "color": "black",
+    "breed": "Golden Retriever",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://hips.hearstapps.com/hmg-prod/images/yorkshire-terrier-dog-sitting-close-up-on-nature-royalty-free-image-1682308117.jpg?crop=0.70029xw:1xh;center,top&resize=980:*"
+    ],
+    "price": "26",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner6",
+    "owner_phone": "123-456-7806",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/6.jpg"
+  },
+  {
+    "id": "7",
+    "pet_name": "Sunny",
+    "gender": "female",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Budgerigar",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://media.istockphoto.com/id/1203603072/photo/friendly-cockatiel-parrot-sitting-on-owners-finger.jpg?s=612x612&w=0&k=20&c=IbF04jBn6878aM5EqlE3KginfqK825ZRvlcQ3YS7ouA="
+    ],
+    "price": "27",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner7",
+    "owner_phone": "123-456-7807",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/7.jpg"
+  },
+  {
+    "id": "10",
+    "pet_name": "Milo",
+    "gender": "male",
+    "category": "cat",
+    "color": "white",
+    "breed": "Bengal",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://www.dailypaws.com/thmb/bi5V7jjo0lcxt3220F0MaD5TvUE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/white-munchkin-cat_150890825-2000-14ac416a91344b928f0f25e01e06503e.jpg"
+    ],
+    "price": "30",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner10",
+    "owner_phone": "123-456-7810",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/10.jpg"
+  },
+  {
+    "id": "11",
+    "pet_name": "Max",
+    "gender": "female",
+    "category": "dog",
+    "color": "black",
+    "breed": "German Shepherd",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://www.thesprucepets.com/thmb/hxWjs7evF2hP1Fb1c1HAvRi_Rw0=/2765x0/filters:no_upscale():strip_icc()/chinese-dog-breeds-4797219-hero-2a1e9c5ed2c54d00aef75b05c5db399c.jpg"
+    ],
+    "price": "31",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner11",
+    "owner_phone": "123-456-7811",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/11.jpg"
+  },
+  {
+    "id": "12",
+    "pet_name": "Coco",
+    "gender": "male",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Canary",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Congo_African_Grey_pet_on_a_perch.JPG/640px-Congo_African_Grey_pet_on_a_perch.JPG"
+    ],
+    "price": "32",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner12",
+    "owner_phone": "123-456-7812",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/12.jpg"
+  },
+  {
+    "id": "15",
+    "pet_name": "Oliver",
+    "gender": "female",
+    "category": "cat",
+    "color": "white",
+    "breed": "Persian",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://static.vecteezy.com/system/resources/previews/002/098/203/non_2x/silver-tabby-cat-sitting-on-green-background-free-photo.jpg"
+    ],
+    "price": "35",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner15",
+    "owner_phone": "123-456-7815",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/15.jpg"
+  },
+  {
+    "id": "16",
+    "pet_name": "Lucy",
+    "gender": "male",
+    "category": "dog",
+    "color": "black",
+    "breed": "Bulldog",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://cdn.mos.cms.futurecdn.net/ASHH5bDmsp6wnK6mEfZdcU.jpg"
+    ],
+    "price": "36",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner16",
+    "owner_phone": "123-456-7816",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/16.jpg"
+  },
+  {
+    "id": "17",
+    "pet_name": "Pepper",
+    "gender": "female",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Lovebird",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://media.istockphoto.com/id/1284866835/photo/pet-bird-sitting-on-owners-finger.jpg?s=612x612&w=0&k=20&c=LlOVvGode-40Vdi3gXsZ6MRJgaqmGrB1Bdedfrgo3VU="
+    ],
+    "price": "37",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner17",
+    "owner_phone": "123-456-7817",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/17.jpg"
+  },
+  {
+    "id": "20",
+    "pet_name": "Simba",
+    "gender": "male",
+    "category": "cat",
+    "color": "white",
+    "breed": "Maine Coon",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS0IQhVr9DDJCq61QX28zCoiqDrvezBh5ylw&s"
+    ],
+    "price": "40",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner20",
+    "owner_phone": "123-456-7820",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/20.jpg"
+  },
+  {
+    "id": "21",
+    "pet_name": "Daisy",
+    "gender": "female",
+    "category": "dog",
+    "color": "black",
+    "breed": "Beagle",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://hips.hearstapps.com/hmg-prod/images/portrait-of-a-bichon-frise-dog-royalty-free-image-1682312789.jpg?crop=0.668xw:1.00xh;0.126xw,0&resize=980:*"
+    ],
+    "price": "41",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner21",
+    "owner_phone": "123-456-7821",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/21.jpg"
+  },
+  {
+    "id": "22",
+    "pet_name": "Sky",
+    "gender": "male",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Parrotlet",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOdRK7YnBfvjDLVRUqGJ5i6HOUdsxJmuHYgw&s"
+    ],
+    "price": "42",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner22",
+    "owner_phone": "123-456-7822",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/22.jpg"
+  },
+  {
+    "id": "25",
+    "pet_name": "Chloe",
+    "gender": "female",
+    "category": "cat",
+    "color": "white",
+    "breed": "Ragdoll",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://images.prismic.io/wisdom/0a6a78d8-65fa-47b7-98ce-7b5905faeeaf_alicia-gauthier-KJDhTtPCveI-unsplash.jpg"
+    ],
+    "price": "45",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner25",
+    "owner_phone": "123-456-7825",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/25.jpg"
+  },
+  {
+    "id": "26",
+    "pet_name": "Bella",
+    "gender": "male",
+    "category": "dog",
+    "color": "black",
+    "breed": "Labrador Retriever",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://bestfriends.org/sites/default/files/styles/hero_mobile/public/hero-dash/bfas-Perks0463.jpg?h=fbc740c7&itok=U7naHlN3"
+    ],
+    "price": "46",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner26",
+    "owner_phone": "123-456-7826",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/26.jpg"
+  },
+  {
+    "id": "27",
+    "pet_name": "Kiwi",
+    "gender": "female",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Cockatiel",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyWsQ42ES7wl7XPhYm4xYB-OY9Nk9EjZvIrQ&s"
+    ],
+    "price": "47",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner27",
+    "owner_phone": "123-456-7827",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/27.jpg"
+  },
+  {
+    "id": "30",
+    "pet_name": "Luna",
+    "gender": "male",
+    "category": "cat",
+    "color": "white",
+    "breed": "Siamese",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://m.media-amazon.com/images/I/91NAvwoOy3L.jpg"
+    ],
+    "price": "50",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner30",
+    "owner_phone": "123-456-7830",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/30.jpg"
+  },
+  {
+    "id": "31",
+    "pet_name": "Charlie",
+    "gender": "female",
+    "category": "dog",
+    "color": "black",
+    "breed": "Golden Retriever",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcLzctc21hbGxlc3QtZG9ncy0zLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODI4fX19"
+    ],
+    "price": "51",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner31",
+    "owner_phone": "123-456-7831",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/31.jpg"
+  },
+  {
+    "id": "32",
+    "pet_name": "Sunny",
+    "gender": "male",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Budgerigar",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzxdiinoBhIk9B5A9wRED9iuqOFsrE8E3DUQ&s"
+    ],
+    "price": "52",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner32",
+    "owner_phone": "123-456-7832",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/32.jpg"
+  },
+  {
+    "id": "35",
+    "pet_name": "Milo",
+    "gender": "female",
+    "category": "cat",
+    "color": "white",
+    "breed": "Bengal",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR6WBs9eR0lpN-gL0sEXzxnwnW9u419cYSdg&s"
+    ],
+    "price": "55",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner35",
+    "owner_phone": "123-456-7835",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/35.jpg"
+  },
+  {
+    "id": "36",
+    "pet_name": "Max",
+    "gender": "male",
+    "category": "dog",
+    "color": "black",
+    "breed": "German Shepherd",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://i.guim.co.uk/img/media/963b7dd06d3ba51d2efaa5910b33d207c68face2/0_67_1456_874/master/1456.jpg?width=465&dpr=1&s=none&crop=none"
+    ],
+    "price": "56",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner36",
+    "owner_phone": "123-456-7836",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/36.jpg"
+  },
+  {
+    "id": "37",
+    "pet_name": "Coco",
+    "gender": "female",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Canary",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ8xlJ7cJThIqZyg2MA-On6KSRXC2Tibv2zA&s"
+    ],
+    "price": "57",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner37",
+    "owner_phone": "123-456-7837",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/37.jpg"
+  },
+  {
+    "id": "40",
+    "pet_name": "Oliver",
+    "gender": "male",
+    "category": "cat",
+    "color": "white",
+    "breed": "Persian",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://images.unsplash.com/photo-1511044568932-338cba0ad803?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2F0fGVufDB8fDB8fHww"
+    ],
+    "price": "60",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner40",
+    "owner_phone": "123-456-7840",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/40.jpg"
+  },
+  {
+    "id": "41",
+    "pet_name": "Lucy",
+    "gender": "female",
+    "category": "dog",
+    "color": "black",
+    "breed": "Bulldog",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://hips.hearstapps.com/hmg-prod/images/small-dogs-russian-bolonka-tsvetnaya-6626b40985b00.jpg?crop=0.830xw:0.755xh;0.109xw,0&resize=980:*"
+    ],
+    "price": "61",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner41",
+    "owner_phone": "123-456-7841",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/41.jpg"
+  },
+  {
+    "id": "42",
+    "pet_name": "Pepper",
+    "gender": "male",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Lovebird",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://hips.hearstapps.com/hmg-prod/images/best-pet-birds-parakeet-1572839068.jpg"
+    ],
+    "price": "62",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner42",
+    "owner_phone": "123-456-7842",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/42.jpg"
+  },
+  {
+    "id": "45",
+    "pet_name": "Simba",
+    "gender": "female",
+    "category": "cat",
+    "color": "white",
+    "breed": "Maine Coon",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://www.aspca.org/sites/default/files/cat-care_general-cat-care_body1-left.jpg"
+    ],
+    "price": "65",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner45",
+    "owner_phone": "123-456-7845",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/45.jpg"
+  },
+  {
+    "id": "46",
+    "pet_name": "Daisy",
+    "gender": "male",
+    "category": "dog",
+    "color": "black",
+    "breed": "Beagle",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://www.purina.co.uk/sites/default/files/2020-12/Dog_1098119012_Teaser.jpg"
+    ],
+    "price": "66",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner46",
+    "owner_phone": "123-456-7846",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/46.jpg"
+  },
+  {
+    "id": "47",
+    "pet_name": "Sky",
+    "gender": "female",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Parrotlet",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE46EYQd-yHirrfNffaPuxrDKN2f7SgZvyew&s"
+    ],
+    "price": "67",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner47",
+    "owner_phone": "123-456-7847",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/47.jpg"
+  },
+  {
+    "id": "48",
+    "pet_name": "Hazel",
+    "gender": "male",
+    "category": "hamster",
+    "color": "gray",
+    "breed": "Campbell's Dwarf Hamster",
+    "weight": "5kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/4f/Phodopus_campbelli_-_Caramel.jpg"
+    ],
+    "price": "68",
+    "description": "A unique hamster with distinctive characteristics.",
+    "owner_name": "Owner48",
+    "owner_phone": "123-456-7848",
+    "owner_location": "Florida",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/48.jpg"
+  },
+  {
+    "id": "50",
+    "pet_name": "Chloe",
+    "gender": "male",
+    "category": "cat",
+    "color": "white",
+    "breed": "Ragdoll",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://www.thesprucepets.com/thmb/VMESw8p8zyafdn-RTo5vBJJ4Iu0=/4000x0/filters:no_upscale():strip_icc()/spruce-pets-cutest-cats-16384c1bdb824b1d87861d62b2a73f4c.jpg"
+    ],
+    "price": "70",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner50",
+    "owner_phone": "123-456-7850",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/50.jpg"
+  }
+]

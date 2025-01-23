@@ -1,0 +1,952 @@
+[
+  {
+    "id": "1",
+    "pet_name": "Pet1",
+    "gender": "female",
+    "category": "dog",
+    "color": "black",
+    "breed": "Dog Breed 1",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/dog?random=1",
+      "https://loremflickr.com/320/240/dog?random=51"
+    ],
+    "price": "21",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner1",
+    "owner_phone": "123-456-7801",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/1.jpg"
+  },
+  {
+    "id": "2",
+    "pet_name": "Pet2",
+    "gender": "male",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Bird Breed 2",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/bird?random=2",
+      "https://loremflickr.com/320/240/bird?random=52"
+    ],
+    "price": "22",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner2",
+    "owner_phone": "123-456-7802",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/2.jpg"
+  },
+  {
+    "id": "3",
+    "pet_name": "Pet3",
+    "gender": "female",
+    "category": "hamster",
+    "color": "gray",
+    "breed": "Hamster Breed 3",
+    "weight": "5kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/hamster?random=3",
+      "https://loremflickr.com/320/240/hamster?random=53"
+    ],
+    "price": "23",
+    "description": "A unique hamster with distinctive characteristics.",
+    "owner_name": "Owner3",
+    "owner_phone": "123-456-7803",
+    "owner_location": "Florida",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/3.jpg"
+  },
+  {
+    "id": "4",
+    "pet_name": "Pet4",
+    "gender": "male",
+    "category": "turtle",
+    "color": "golden",
+    "breed": "Turtle Breed 4",
+    "weight": "6kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/turtle?random=4",
+      "https://loremflickr.com/320/240/turtle?random=54"
+    ],
+    "price": "24",
+    "description": "A unique turtle with distinctive characteristics.",
+    "owner_name": "Owner4",
+    "owner_phone": "123-456-7804",
+    "owner_location": "Nevada",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/4.jpg"
+  },
+  {
+    "id": "5",
+    "pet_name": "Pet5",
+    "gender": "female",
+    "category": "cat",
+    "color": "white",
+    "breed": "Cat Breed 5",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/cat?random=5",
+      "https://loremflickr.com/320/240/cat?random=55"
+    ],
+    "price": "25",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner5",
+    "owner_phone": "123-456-7805",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/5.jpg"
+  },
+  {
+    "id": "6",
+    "pet_name": "Pet6",
+    "gender": "male",
+    "category": "dog",
+    "color": "black",
+    "breed": "Dog Breed 6",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/dog?random=6",
+      "https://loremflickr.com/320/240/dog?random=56"
+    ],
+    "price": "26",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner6",
+    "owner_phone": "123-456-7806",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/6.jpg"
+  },
+  {
+    "id": "7",
+    "pet_name": "Pet7",
+    "gender": "female",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Bird Breed 7",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/bird?random=7",
+      "https://loremflickr.com/320/240/bird?random=57"
+    ],
+    "price": "27",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner7",
+    "owner_phone": "123-456-7807",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/7.jpg"
+  },
+  {
+    "id": "8",
+    "pet_name": "Pet8",
+    "gender": "male",
+    "category": "hamster",
+    "color": "gray",
+    "breed": "Hamster Breed 8",
+    "weight": "5kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/hamster?random=8",
+      "https://loremflickr.com/320/240/hamster?random=58"
+    ],
+    "price": "28",
+    "description": "A unique hamster with distinctive characteristics.",
+    "owner_name": "Owner8",
+    "owner_phone": "123-456-7808",
+    "owner_location": "Florida",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/8.jpg"
+  },
+  {
+    "id": "9",
+    "pet_name": "Pet9",
+    "gender": "female",
+    "category": "turtle",
+    "color": "golden",
+    "breed": "Turtle Breed 9",
+    "weight": "6kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/turtle?random=9",
+      "https://loremflickr.com/320/240/turtle?random=59"
+    ],
+    "price": "29",
+    "description": "A unique turtle with distinctive characteristics.",
+    "owner_name": "Owner9",
+    "owner_phone": "123-456-7809",
+    "owner_location": "Nevada",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/9.jpg"
+  },
+  {
+    "id": "10",
+    "pet_name": "Pet10",
+    "gender": "male",
+    "category": "cat",
+    "color": "white",
+    "breed": "Cat Breed 10",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/cat?random=10",
+      "https://loremflickr.com/320/240/cat?random=60"
+    ],
+    "price": "30",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner10",
+    "owner_phone": "123-456-7810",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/10.jpg"
+  },
+  {
+    "id": "11",
+    "pet_name": "Pet11",
+    "gender": "female",
+    "category": "dog",
+    "color": "black",
+    "breed": "Dog Breed 11",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/dog?random=11",
+      "https://loremflickr.com/320/240/dog?random=61"
+    ],
+    "price": "31",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner11",
+    "owner_phone": "123-456-7811",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/11.jpg"
+  },
+  {
+    "id": "12",
+    "pet_name": "Pet12",
+    "gender": "male",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Bird Breed 12",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/bird?random=12",
+      "https://loremflickr.com/320/240/bird?random=62"
+    ],
+    "price": "32",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner12",
+    "owner_phone": "123-456-7812",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/12.jpg"
+  },
+  {
+    "id": "13",
+    "pet_name": "Pet13",
+    "gender": "female",
+    "category": "hamster",
+    "color": "gray",
+    "breed": "Hamster Breed 13",
+    "weight": "5kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/hamster?random=13",
+      "https://loremflickr.com/320/240/hamster?random=63"
+    ],
+    "price": "33",
+    "description": "A unique hamster with distinctive characteristics.",
+    "owner_name": "Owner13",
+    "owner_phone": "123-456-7813",
+    "owner_location": "Florida",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/13.jpg"
+  },
+  {
+    "id": "14",
+    "pet_name": "Pet14",
+    "gender": "male",
+    "category": "turtle",
+    "color": "golden",
+    "breed": "Turtle Breed 14",
+    "weight": "6kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/turtle?random=14",
+      "https://loremflickr.com/320/240/turtle?random=64"
+    ],
+    "price": "34",
+    "description": "A unique turtle with distinctive characteristics.",
+    "owner_name": "Owner14",
+    "owner_phone": "123-456-7814",
+    "owner_location": "Nevada",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/14.jpg"
+  },
+  {
+    "id": "15",
+    "pet_name": "Pet15",
+    "gender": "female",
+    "category": "cat",
+    "color": "white",
+    "breed": "Cat Breed 15",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/cat?random=15",
+      "https://loremflickr.com/320/240/cat?random=65"
+    ],
+    "price": "35",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner15",
+    "owner_phone": "123-456-7815",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/15.jpg"
+  },
+  {
+    "id": "16",
+    "pet_name": "Pet16",
+    "gender": "male",
+    "category": "dog",
+    "color": "black",
+    "breed": "Dog Breed 16",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/dog?random=16",
+      "https://loremflickr.com/320/240/dog?random=66"
+    ],
+    "price": "36",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner16",
+    "owner_phone": "123-456-7816",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/16.jpg"
+  },
+  {
+    "id": "17",
+    "pet_name": "Pet17",
+    "gender": "female",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Bird Breed 17",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/bird?random=17",
+      "https://loremflickr.com/320/240/bird?random=67"
+    ],
+    "price": "37",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner17",
+    "owner_phone": "123-456-7817",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/17.jpg"
+  },
+  {
+    "id": "18",
+    "pet_name": "Pet18",
+    "gender": "male",
+    "category": "hamster",
+    "color": "gray",
+    "breed": "Hamster Breed 18",
+    "weight": "5kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/hamster?random=18",
+      "https://loremflickr.com/320/240/hamster?random=68"
+    ],
+    "price": "38",
+    "description": "A unique hamster with distinctive characteristics.",
+    "owner_name": "Owner18",
+    "owner_phone": "123-456-7818",
+    "owner_location": "Florida",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/18.jpg"
+  },
+  {
+    "id": "19",
+    "pet_name": "Pet19",
+    "gender": "female",
+    "category": "turtle",
+    "color": "golden",
+    "breed": "Turtle Breed 19",
+    "weight": "6kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/turtle?random=19",
+      "https://loremflickr.com/320/240/turtle?random=69"
+    ],
+    "price": "39",
+    "description": "A unique turtle with distinctive characteristics.",
+    "owner_name": "Owner19",
+    "owner_phone": "123-456-7819",
+    "owner_location": "Nevada",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/19.jpg"
+  },
+  {
+    "id": "20",
+    "pet_name": "Pet20",
+    "gender": "male",
+    "category": "cat",
+    "color": "white",
+    "breed": "Cat Breed 20",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/cat?random=20",
+      "https://loremflickr.com/320/240/cat?random=70"
+    ],
+    "price": "40",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner20",
+    "owner_phone": "123-456-7820",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/20.jpg"
+  },
+  {
+    "id": "21",
+    "pet_name": "Pet21",
+    "gender": "female",
+    "category": "dog",
+    "color": "black",
+    "breed": "Dog Breed 21",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/dog?random=21",
+      "https://loremflickr.com/320/240/dog?random=71"
+    ],
+    "price": "41",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner21",
+    "owner_phone": "123-456-7821",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/21.jpg"
+  },
+  {
+    "id": "22",
+    "pet_name": "Pet22",
+    "gender": "male",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Bird Breed 22",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/bird?random=22",
+      "https://loremflickr.com/320/240/bird?random=72"
+    ],
+    "price": "42",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner22",
+    "owner_phone": "123-456-7822",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/22.jpg"
+  },
+  {
+    "id": "23",
+    "pet_name": "Pet23",
+    "gender": "female",
+    "category": "hamster",
+    "color": "gray",
+    "breed": "Hamster Breed 23",
+    "weight": "5kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/hamster?random=23",
+      "https://loremflickr.com/320/240/hamster?random=73"
+    ],
+    "price": "43",
+    "description": "A unique hamster with distinctive characteristics.",
+    "owner_name": "Owner23",
+    "owner_phone": "123-456-7823",
+    "owner_location": "Florida",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/23.jpg"
+  },
+  {
+    "id": "24",
+    "pet_name": "Pet24",
+    "gender": "male",
+    "category": "turtle",
+    "color": "golden",
+    "breed": "Turtle Breed 24",
+    "weight": "6kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/turtle?random=24",
+      "https://loremflickr.com/320/240/turtle?random=74"
+    ],
+    "price": "44",
+    "description": "A unique turtle with distinctive characteristics.",
+    "owner_name": "Owner24",
+    "owner_phone": "123-456-7824",
+    "owner_location": "Nevada",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/24.jpg"
+  },
+  {
+    "id": "25",
+    "pet_name": "Pet25",
+    "gender": "female",
+    "category": "cat",
+    "color": "white",
+    "breed": "Cat Breed 25",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/cat?random=25",
+      "https://loremflickr.com/320/240/cat?random=75"
+    ],
+    "price": "45",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner25",
+    "owner_phone": "123-456-7825",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/25.jpg"
+  },
+  {
+    "id": "26",
+    "pet_name": "Pet26",
+    "gender": "male",
+    "category": "dog",
+    "color": "black",
+    "breed": "Dog Breed 26",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/dog?random=26",
+      "https://loremflickr.com/320/240/dog?random=76"
+    ],
+    "price": "46",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner26",
+    "owner_phone": "123-456-7826",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/26.jpg"
+  },
+  {
+    "id": "27",
+    "pet_name": "Pet27",
+    "gender": "female",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Bird Breed 27",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/bird?random=27",
+      "https://loremflickr.com/320/240/bird?random=77"
+    ],
+    "price": "47",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner27",
+    "owner_phone": "123-456-7827",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/27.jpg"
+  },
+  {
+    "id": "28",
+    "pet_name": "Pet28",
+    "gender": "male",
+    "category": "hamster",
+    "color": "gray",
+    "breed": "Hamster Breed 28",
+    "weight": "5kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/hamster?random=28",
+      "https://loremflickr.com/320/240/hamster?random=78"
+    ],
+    "price": "48",
+    "description": "A unique hamster with distinctive characteristics.",
+    "owner_name": "Owner28",
+    "owner_phone": "123-456-7828",
+    "owner_location": "Florida",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/28.jpg"
+  },
+  {
+    "id": "29",
+    "pet_name": "Pet29",
+    "gender": "female",
+    "category": "turtle",
+    "color": "golden",
+    "breed": "Turtle Breed 29",
+    "weight": "6kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/turtle?random=29",
+      "https://loremflickr.com/320/240/turtle?random=79"
+    ],
+    "price": "49",
+    "description": "A unique turtle with distinctive characteristics.",
+    "owner_name": "Owner29",
+    "owner_phone": "123-456-7829",
+    "owner_location": "Nevada",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/29.jpg"
+  },
+  {
+    "id": "30",
+    "pet_name": "Pet30",
+    "gender": "male",
+    "category": "cat",
+    "color": "white",
+    "breed": "Cat Breed 30",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/cat?random=30",
+      "https://loremflickr.com/320/240/cat?random=80"
+    ],
+    "price": "50",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner30",
+    "owner_phone": "123-456-7830",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/30.jpg"
+  },
+  {
+    "id": "31",
+    "pet_name": "Pet31",
+    "gender": "female",
+    "category": "dog",
+    "color": "black",
+    "breed": "Dog Breed 31",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/dog?random=31",
+      "https://loremflickr.com/320/240/dog?random=81"
+    ],
+    "price": "51",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner31",
+    "owner_phone": "123-456-7831",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/31.jpg"
+  },
+  {
+    "id": "32",
+    "pet_name": "Pet32",
+    "gender": "male",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Bird Breed 32",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/bird?random=32",
+      "https://loremflickr.com/320/240/bird?random=82"
+    ],
+    "price": "52",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner32",
+    "owner_phone": "123-456-7832",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/32.jpg"
+  },
+  {
+    "id": "33",
+    "pet_name": "Pet33",
+    "gender": "female",
+    "category": "hamster",
+    "color": "gray",
+    "breed": "Hamster Breed 33",
+    "weight": "5kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/hamster?random=33",
+      "https://loremflickr.com/320/240/hamster?random=83"
+    ],
+    "price": "53",
+    "description": "A unique hamster with distinctive characteristics.",
+    "owner_name": "Owner33",
+    "owner_phone": "123-456-7833",
+    "owner_location": "Florida",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/33.jpg"
+  },
+  {
+    "id": "34",
+    "pet_name": "Pet34",
+    "gender": "male",
+    "category": "turtle",
+    "color": "golden",
+    "breed": "Turtle Breed 34",
+    "weight": "6kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/turtle?random=34",
+      "https://loremflickr.com/320/240/turtle?random=84"
+    ],
+    "price": "54",
+    "description": "A unique turtle with distinctive characteristics.",
+    "owner_name": "Owner34",
+    "owner_phone": "123-456-7834",
+    "owner_location": "Nevada",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/34.jpg"
+  },
+  {
+    "id": "35",
+    "pet_name": "Pet35",
+    "gender": "female",
+    "category": "cat",
+    "color": "white",
+    "breed": "Cat Breed 35",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/cat?random=35",
+      "https://loremflickr.com/320/240/cat?random=85"
+    ],
+    "price": "55",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner35",
+    "owner_phone": "123-456-7835",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/35.jpg"
+  },
+  {
+    "id": "36",
+    "pet_name": "Pet36",
+    "gender": "male",
+    "category": "dog",
+    "color": "black",
+    "breed": "Dog Breed 36",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/dog?random=36",
+      "https://loremflickr.com/320/240/dog?random=86"
+    ],
+    "price": "56",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner36",
+    "owner_phone": "123-456-7836",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/36.jpg"
+  },
+  {
+    "id": "37",
+    "pet_name": "Pet37",
+    "gender": "female",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Bird Breed 37",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/bird?random=37",
+      "https://loremflickr.com/320/240/bird?random=87"
+    ],
+    "price": "57",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner37",
+    "owner_phone": "123-456-7837",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/37.jpg"
+  },
+  {
+    "id": "38",
+    "pet_name": "Pet38",
+    "gender": "male",
+    "category": "hamster",
+    "color": "gray",
+    "breed": "Hamster Breed 38",
+    "weight": "5kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/hamster?random=38",
+      "https://loremflickr.com/320/240/hamster?random=88"
+    ],
+    "price": "58",
+    "description": "A unique hamster with distinctive characteristics.",
+    "owner_name": "Owner38",
+    "owner_phone": "123-456-7838",
+    "owner_location": "Florida",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/38.jpg"
+  },
+  {
+    "id": "39",
+    "pet_name": "Pet39",
+    "gender": "female",
+    "category": "turtle",
+    "color": "golden",
+    "breed": "Turtle Breed 39",
+    "weight": "6kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/turtle?random=39",
+      "https://loremflickr.com/320/240/turtle?random=89"
+    ],
+    "price": "59",
+    "description": "A unique turtle with distinctive characteristics.",
+    "owner_name": "Owner39",
+    "owner_phone": "123-456-7839",
+    "owner_location": "Nevada",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/39.jpg"
+  },
+  {
+    "id": "40",
+    "pet_name": "Pet40",
+    "gender": "male",
+    "category": "cat",
+    "color": "white",
+    "breed": "Cat Breed 40",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/cat?random=40",
+      "https://loremflickr.com/320/240/cat?random=90"
+    ],
+    "price": "60",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner40",
+    "owner_phone": "123-456-7840",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/40.jpg"
+  },
+  {
+    "id": "41",
+    "pet_name": "Pet41",
+    "gender": "female",
+    "category": "dog",
+    "color": "black",
+    "breed": "Dog Breed 41",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/dog?random=41",
+      "https://loremflickr.com/320/240/dog?random=91"
+    ],
+    "price": "61",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner41",
+    "owner_phone": "123-456-7841",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/41.jpg"
+  },
+  {
+    "id": "42",
+    "pet_name": "Pet42",
+    "gender": "male",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Bird Breed 42",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/bird?random=42",
+      "https://loremflickr.com/320/240/bird?random=92"
+    ],
+    "price": "62",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner42",
+    "owner_phone": "123-456-7842",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/42.jpg"
+  },
+  {
+    "id": "43",
+    "pet_name": "Pet43",
+    "gender": "female",
+    "category": "hamster",
+    "color": "gray",
+    "breed": "Hamster Breed 43",
+    "weight": "5kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/hamster?random=43",
+      "https://loremflickr.com/320/240/hamster?random=93"
+    ],
+    "price": "63",
+    "description": "A unique hamster with distinctive characteristics.",
+    "owner_name": "Owner43",
+    "owner_phone": "123-456-7843",
+    "owner_location": "Florida",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/43.jpg"
+  },
+  {
+    "id": "44",
+    "pet_name": "Pet44",
+    "gender": "male",
+    "category": "turtle",
+    "color": "golden",
+    "breed": "Turtle Breed 44",
+    "weight": "6kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/turtle?random=44",
+      "https://loremflickr.com/320/240/turtle?random=94"
+    ],
+    "price": "64",
+    "description": "A unique turtle with distinctive characteristics.",
+    "owner_name": "Owner44",
+    "owner_phone": "123-456-7844",
+    "owner_location": "Nevada",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/44.jpg"
+  },
+  {
+    "id": "45",
+    "pet_name": "Pet45",
+    "gender": "female",
+    "category": "cat",
+    "color": "white",
+    "breed": "Cat Breed 45",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/cat?random=45",
+      "https://loremflickr.com/320/240/cat?random=95"
+    ],
+    "price": "65",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner45",
+    "owner_phone": "123-456-7845",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/45.jpg"
+  },
+  {
+    "id": "46",
+    "pet_name": "Pet46",
+    "gender": "male",
+    "category": "dog",
+    "color": "black",
+    "breed": "Dog Breed 46",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/dog?random=46",
+      "https://loremflickr.com/320/240/dog?random=96"
+    ],
+    "price": "66",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner46",
+    "owner_phone": "123-456-7846",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/46.jpg"
+  },
+  {
+    "id": "47",
+    "pet_name": "Pet47",
+    "gender": "female",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Bird Breed 47",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/bird?random=47",
+      "https://loremflickr.com/320/240/bird?random=97"
+    ],
+    "price": "67",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner47",
+    "owner_phone": "123-456-7847",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/47.jpg"
+  },
+  {
+    "id": "48",
+    "pet_name": "Pet48",
+    "gender": "male",
+    "category": "hamster",
+    "color": "gray",
+    "breed": "Hamster Breed 48",
+    "weight": "5kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/hamster?random=48",
+      "https://loremflickr.com/320/240/hamster?random=98"
+    ],
+    "price": "68",
+    "description": "A unique hamster with distinctive characteristics.",
+    "owner_name": "Owner48",
+    "owner_phone": "123-456-7848",
+    "owner_location": "Florida",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/48.jpg"
+  },
+  {
+    "id": "49",
+    "pet_name": "Pet49",
+    "gender": "female",
+    "category": "turtle",
+    "color": "golden",
+    "breed": "Turtle Breed 49",
+    "weight": "6kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/turtle?random=49",
+      "https://loremflickr.com/320/240/turtle?random=99"
+    ],
+    "price": "69",
+    "description": "A unique turtle with distinctive characteristics.",
+    "owner_name": "Owner49",
+    "owner_phone": "123-456-7849",
+    "owner_location": "Nevada",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/49.jpg"
+  },
+  {
+    "id": "50",
+    "pet_name": "Pet50",
+    "gender": "male",
+    "category": "cat",
+    "color": "white",
+    "breed": "Cat Breed 50",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://loremflickr.com/320/240/cat?random=50",
+      "https://loremflickr.com/320/240/cat?random=100"
+    ],
+    "price": "70",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner50",
+    "owner_phone": "123-456-7850",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/50.jpg"
+  }
+]

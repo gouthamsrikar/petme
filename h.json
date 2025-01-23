@@ -1,0 +1,16 @@
+{
+    "id":"",
+    "pet_name":"",
+    "gender":"male | female",
+    "category":"cat | dogs | birds | hams | turtles",
+    "color":"color",
+    "breed":"breed",
+    "weight":"2kg",
+    "photo_urls":["",""],
+    "price":"23usd",
+    "description":"",
+    "owner_name":"",
+    "owner_phone":"",
+    "owner_location":"california",
+    "owner_image_url":""
+}

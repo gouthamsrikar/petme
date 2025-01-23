@@ -1,0 +1,902 @@
+[
+  {
+    "id": "1",
+    "pet_name": "Bella",
+    "gender": "female",
+    "category": "dog",
+    "color": "black",
+    "breed": "Labrador Retriever",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://dog.ceo/api/breeds/image/random"
+    ],
+    "price": "21",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner1",
+    "owner_phone": "123-456-7801",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/1.jpg"
+  },
+  {
+    "id": "2",
+    "pet_name": "Kiwi",
+    "gender": "male",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Cockatiel",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5a/Cockatiel_nymphicus_hollandicus.jpg"
+    ],
+    "price": "22",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner2",
+    "owner_phone": "123-456-7802",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/2.jpg"
+  },
+  {
+    "id": "3",
+    "pet_name": "Nibbles",
+    "gender": "female",
+    "category": "hamster",
+    "color": "gray",
+    "breed": "Syrian Hamster",
+    "weight": "5kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3a/SyrianHamster.jpg"
+    ],
+    "price": "23",
+    "description": "A unique hamster with distinctive characteristics.",
+    "owner_name": "Owner3",
+    "owner_phone": "123-456-7803",
+    "owner_location": "Florida",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/3.jpg"
+  },
+  {
+    "id": "4",
+    "pet_name": "Shelly",
+    "gender": "male",
+    "category": "turtle",
+    "color": "golden",
+    "breed": "Red-Eared Slider",
+    "weight": "6kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/74/RedEaredSlider.jpg"
+    ],
+    "price": "24",
+    "description": "A unique turtle with distinctive characteristics.",
+    "owner_name": "Owner4",
+    "owner_phone": "123-456-7804",
+    "owner_location": "Nevada",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/4.jpg"
+  },
+  {
+    "id": "5",
+    "pet_name": "Luna",
+    "gender": "female",
+    "category": "cat",
+    "color": "white",
+    "breed": "Siamese",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://cdn2.thecatapi.com/images/9ccXTANkb.jpg"
+    ],
+    "price": "25",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner5",
+    "owner_phone": "123-456-7805",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/5.jpg"
+  },
+  {
+    "id": "6",
+    "pet_name": "Charlie",
+    "gender": "male",
+    "category": "dog",
+    "color": "black",
+    "breed": "Golden Retriever",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://dog.ceo/api/img/retriever-golden/n02099601_3507.jpg"
+    ],
+    "price": "26",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner6",
+    "owner_phone": "123-456-7806",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/6.jpg"
+  },
+  {
+    "id": "7",
+    "pet_name": "Sunny",
+    "gender": "female",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Budgerigar",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/32/Budgerigar-male.jpg"
+    ],
+    "price": "27",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner7",
+    "owner_phone": "123-456-7807",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/7.jpg"
+  },
+  {
+    "id": "8",
+    "pet_name": "Whiskers",
+    "gender": "male",
+    "category": "hamster",
+    "color": "gray",
+    "breed": "Dwarf Hamster",
+    "weight": "5kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8f/DwarfHamster.jpg"
+    ],
+    "price": "28",
+    "description": "A unique hamster with distinctive characteristics.",
+    "owner_name": "Owner8",
+    "owner_phone": "123-456-7808",
+    "owner_location": "Florida",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/8.jpg"
+  },
+  {
+    "id": "9",
+    "pet_name": "Speedy",
+    "gender": "female",
+    "category": "turtle",
+    "color": "golden",
+    "breed": "Box Turtle",
+    "weight": "6kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a6/BoxTurtle.jpg"
+    ],
+    "price": "29",
+    "description": "A unique turtle with distinctive characteristics.",
+    "owner_name": "Owner9",
+    "owner_phone": "123-456-7809",
+    "owner_location": "Nevada",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/9.jpg"
+  },
+  {
+    "id": "10",
+    "pet_name": "Milo",
+    "gender": "male",
+    "category": "cat",
+    "color": "white",
+    "breed": "Bengal",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://cdn2.thecatapi.com/images/4e6.png"
+    ],
+    "price": "30",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner10",
+    "owner_phone": "123-456-7810",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/10.jpg"
+  },
+  {
+    "id": "11",
+    "pet_name": "Max",
+    "gender": "female",
+    "category": "dog",
+    "color": "black",
+    "breed": "German Shepherd",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://dog.ceo/api/img/germanshepherd/n02106662_16229.jpg"
+    ],
+    "price": "31",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner11",
+    "owner_phone": "123-456-7811",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/11.jpg"
+  },
+  {
+    "id": "12",
+    "pet_name": "Coco",
+    "gender": "male",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Canary",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/69/Canary-Bird.jpg"
+    ],
+    "price": "32",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner12",
+    "owner_phone": "123-456-7812",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/12.jpg"
+  },
+  {
+    "id": "13",
+    "pet_name": "Cinnamon",
+    "gender": "female",
+    "category": "hamster",
+    "color": "gray",
+    "breed": "Chinese Hamster",
+    "weight": "5kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f7/ChineseHamster.jpg"
+    ],
+    "price": "33",
+    "description": "A unique hamster with distinctive characteristics.",
+    "owner_name": "Owner13",
+    "owner_phone": "123-456-7813",
+    "owner_location": "Florida",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/13.jpg"
+  },
+  {
+    "id": "14",
+    "pet_name": "Tank",
+    "gender": "male",
+    "category": "turtle",
+    "color": "golden",
+    "breed": "Snapping Turtle",
+    "weight": "6kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/2b/SnappingTurtle.jpg"
+    ],
+    "price": "34",
+    "description": "A unique turtle with distinctive characteristics.",
+    "owner_name": "Owner14",
+    "owner_phone": "123-456-7814",
+    "owner_location": "Nevada",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/14.jpg"
+  },
+  {
+    "id": "15",
+    "pet_name": "Oliver",
+    "gender": "female",
+    "category": "cat",
+    "color": "white",
+    "breed": "Persian",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://cdn2.thecatapi.com/images/r1fLL5jAm.jpg"
+    ],
+    "price": "35",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner15",
+    "owner_phone": "123-456-7815",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/15.jpg"
+  },
+  {
+    "id": "16",
+    "pet_name": "Lucy",
+    "gender": "male",
+    "category": "dog",
+    "color": "black",
+    "breed": "Bulldog",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://dog.ceo/api/img/bulldog/n02096585_10747.jpg"
+    ],
+    "price": "36",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner16",
+    "owner_phone": "123-456-7816",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/16.jpg"
+  },
+  {
+    "id": "17",
+    "pet_name": "Pepper",
+    "gender": "female",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Lovebird",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/42/Lovebird.jpg"
+    ],
+    "price": "37",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner17",
+    "owner_phone": "123-456-7817",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/17.jpg"
+  },
+  {
+    "id": "18",
+    "pet_name": "Peanut",
+    "gender": "male",
+    "category": "hamster",
+    "color": "gray",
+    "breed": "Roborovski Hamster",
+    "weight": "5kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a8/RoborovskiHamster.jpg"
+    ],
+    "price": "38",
+    "description": "A unique hamster with distinctive characteristics.",
+    "owner_name": "Owner18",
+    "owner_phone": "123-456-7818",
+    "owner_location": "Florida",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/18.jpg"
+  },
+  {
+    "id": "19",
+    "pet_name": "Bubbles",
+    "gender": "female",
+    "category": "turtle",
+    "color": "golden",
+    "breed": "Painted Turtle",
+    "weight": "6kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/68/PaintedTurtle.jpg"
+    ],
+    "price": "39",
+    "description": "A unique turtle with distinctive characteristics.",
+    "owner_name": "Owner19",
+    "owner_phone": "123-456-7819",
+    "owner_location": "Nevada",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/19.jpg"
+  },
+  {
+    "id": "20",
+    "pet_name": "Simba",
+    "gender": "male",
+    "category": "cat",
+    "color": "white",
+    "breed": "Maine Coon",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://cdn2.thecatapi.com/images/Ou9KPZLSI.jpg"
+    ],
+    "price": "40",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner20",
+    "owner_phone": "123-456-7820",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/20.jpg"
+  },
+  {
+    "id": "21",
+    "pet_name": "Daisy",
+    "gender": "female",
+    "category": "dog",
+    "color": "black",
+    "breed": "Beagle",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://dog.ceo/api/img/beagle/n02088364_16922.jpg"
+    ],
+    "price": "41",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner21",
+    "owner_phone": "123-456-7821",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/21.jpg"
+  },
+  {
+    "id": "22",
+    "pet_name": "Sky",
+    "gender": "male",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Parrotlet",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/dc/Blue_Pacific_Parrotlet.jpg"
+    ],
+    "price": "42",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner22",
+    "owner_phone": "123-456-7822",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/22.jpg"
+  },
+  {
+    "id": "23",
+    "pet_name": "Hazel",
+    "gender": "female",
+    "category": "hamster",
+    "color": "gray",
+    "breed": "Campbell's Dwarf Hamster",
+    "weight": "5kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/50/CampbellsDwarfHamster.jpg"
+    ],
+    "price": "43",
+    "description": "A unique hamster with distinctive characteristics.",
+    "owner_name": "Owner23",
+    "owner_phone": "123-456-7823",
+    "owner_location": "Florida",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/23.jpg"
+  },
+  {
+    "id": "24",
+    "pet_name": "Squirt",
+    "gender": "male",
+    "category": "turtle",
+    "color": "golden",
+    "breed": "Mata Mata Turtle",
+    "weight": "6kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/7a/MataMataTurtle.jpg"
+    ],
+    "price": "44",
+    "description": "A unique turtle with distinctive characteristics.",
+    "owner_name": "Owner24",
+    "owner_phone": "123-456-7824",
+    "owner_location": "Nevada",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/24.jpg"
+  },
+  {
+    "id": "25",
+    "pet_name": "Chloe",
+    "gender": "female",
+    "category": "cat",
+    "color": "white",
+    "breed": "Ragdoll",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://cdn2.thecatapi.com/images/BBil2z1Vv.jpg"
+    ],
+    "price": "45",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner25",
+    "owner_phone": "123-456-7825",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/25.jpg"
+  },
+  {
+    "id": "26",
+    "pet_name": "Bella",
+    "gender": "male",
+    "category": "dog",
+    "color": "black",
+    "breed": "Labrador Retriever",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://dog.ceo/api/img/labrador/n02099712_1046.jpg"
+    ],
+    "price": "46",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner26",
+    "owner_phone": "123-456-7826",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/26.jpg"
+  },
+  {
+    "id": "27",
+    "pet_name": "Kiwi",
+    "gender": "female",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Cockatiel",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5a/Cockatiel_nymphicus_hollandicus.jpg"
+    ],
+    "price": "47",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner27",
+    "owner_phone": "123-456-7827",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/27.jpg"
+  },
+  {
+    "id": "28",
+    "pet_name": "Nibbles",
+    "gender": "male",
+    "category": "hamster",
+    "color": "gray",
+    "breed": "Syrian Hamster",
+    "weight": "5kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3a/SyrianHamster.jpg"
+    ],
+    "price": "48",
+    "description": "A unique hamster with distinctive characteristics.",
+    "owner_name": "Owner28",
+    "owner_phone": "123-456-7828",
+    "owner_location": "Florida",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/28.jpg"
+  },
+  {
+    "id": "29",
+    "pet_name": "Shelly",
+    "gender": "female",
+    "category": "turtle",
+    "color": "golden",
+    "breed": "Red-Eared Slider",
+    "weight": "6kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/74/RedEaredSlider.jpg"
+    ],
+    "price": "49",
+    "description": "A unique turtle with distinctive characteristics.",
+    "owner_name": "Owner29",
+    "owner_phone": "123-456-7829",
+    "owner_location": "Nevada",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/29.jpg"
+  },
+  {
+    "id": "30",
+    "pet_name": "Luna",
+    "gender": "male",
+    "category": "cat",
+    "color": "white",
+    "breed": "Siamese",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://cdn2.thecatapi.com/images/9ccXTANkb.jpg"
+    ],
+    "price": "50",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner30",
+    "owner_phone": "123-456-7830",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/30.jpg"
+  },
+  {
+    "id": "31",
+    "pet_name": "Charlie",
+    "gender": "female",
+    "category": "dog",
+    "color": "black",
+    "breed": "Golden Retriever",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://dog.ceo/api/img/retriever-golden/n02099601_3507.jpg"
+    ],
+    "price": "51",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner31",
+    "owner_phone": "123-456-7831",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/31.jpg"
+  },
+  {
+    "id": "32",
+    "pet_name": "Sunny",
+    "gender": "male",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Budgerigar",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/32/Budgerigar-male.jpg"
+    ],
+    "price": "52",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner32",
+    "owner_phone": "123-456-7832",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/32.jpg"
+  },
+  {
+    "id": "33",
+    "pet_name": "Whiskers",
+    "gender": "female",
+    "category": "hamster",
+    "color": "gray",
+    "breed": "Dwarf Hamster",
+    "weight": "5kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8f/DwarfHamster.jpg"
+    ],
+    "price": "53",
+    "description": "A unique hamster with distinctive characteristics.",
+    "owner_name": "Owner33",
+    "owner_phone": "123-456-7833",
+    "owner_location": "Florida",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/33.jpg"
+  },
+  {
+    "id": "34",
+    "pet_name": "Speedy",
+    "gender": "male",
+    "category": "turtle",
+    "color": "golden",
+    "breed": "Box Turtle",
+    "weight": "6kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a6/BoxTurtle.jpg"
+    ],
+    "price": "54",
+    "description": "A unique turtle with distinctive characteristics.",
+    "owner_name": "Owner34",
+    "owner_phone": "123-456-7834",
+    "owner_location": "Nevada",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/34.jpg"
+  },
+  {
+    "id": "35",
+    "pet_name": "Milo",
+    "gender": "female",
+    "category": "cat",
+    "color": "white",
+    "breed": "Bengal",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://cdn2.thecatapi.com/images/4e6.png"
+    ],
+    "price": "55",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner35",
+    "owner_phone": "123-456-7835",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/35.jpg"
+  },
+  {
+    "id": "36",
+    "pet_name": "Max",
+    "gender": "male",
+    "category": "dog",
+    "color": "black",
+    "breed": "German Shepherd",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://dog.ceo/api/img/germanshepherd/n02106662_16229.jpg"
+    ],
+    "price": "56",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner36",
+    "owner_phone": "123-456-7836",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/36.jpg"
+  },
+  {
+    "id": "37",
+    "pet_name": "Coco",
+    "gender": "female",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Canary",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/69/Canary-Bird.jpg"
+    ],
+    "price": "57",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner37",
+    "owner_phone": "123-456-7837",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/37.jpg"
+  },
+  {
+    "id": "38",
+    "pet_name": "Cinnamon",
+    "gender": "male",
+    "category": "hamster",
+    "color": "gray",
+    "breed": "Chinese Hamster",
+    "weight": "5kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f7/ChineseHamster.jpg"
+    ],
+    "price": "58",
+    "description": "A unique hamster with distinctive characteristics.",
+    "owner_name": "Owner38",
+    "owner_phone": "123-456-7838",
+    "owner_location": "Florida",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/38.jpg"
+  },
+  {
+    "id": "39",
+    "pet_name": "Tank",
+    "gender": "female",
+    "category": "turtle",
+    "color": "golden",
+    "breed": "Snapping Turtle",
+    "weight": "6kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/2b/SnappingTurtle.jpg"
+    ],
+    "price": "59",
+    "description": "A unique turtle with distinctive characteristics.",
+    "owner_name": "Owner39",
+    "owner_phone": "123-456-7839",
+    "owner_location": "Nevada",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/39.jpg"
+  },
+  {
+    "id": "40",
+    "pet_name": "Oliver",
+    "gender": "male",
+    "category": "cat",
+    "color": "white",
+    "breed": "Persian",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://cdn2.thecatapi.com/images/r1fLL5jAm.jpg"
+    ],
+    "price": "60",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner40",
+    "owner_phone": "123-456-7840",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/40.jpg"
+  },
+  {
+    "id": "41",
+    "pet_name": "Lucy",
+    "gender": "female",
+    "category": "dog",
+    "color": "black",
+    "breed": "Bulldog",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://dog.ceo/api/img/bulldog/n02096585_10747.jpg"
+    ],
+    "price": "61",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner41",
+    "owner_phone": "123-456-7841",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/41.jpg"
+  },
+  {
+    "id": "42",
+    "pet_name": "Pepper",
+    "gender": "male",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Lovebird",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/42/Lovebird.jpg"
+    ],
+    "price": "62",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner42",
+    "owner_phone": "123-456-7842",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/42.jpg"
+  },
+  {
+    "id": "43",
+    "pet_name": "Peanut",
+    "gender": "female",
+    "category": "hamster",
+    "color": "gray",
+    "breed": "Roborovski Hamster",
+    "weight": "5kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a8/RoborovskiHamster.jpg"
+    ],
+    "price": "63",
+    "description": "A unique hamster with distinctive characteristics.",
+    "owner_name": "Owner43",
+    "owner_phone": "123-456-7843",
+    "owner_location": "Florida",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/43.jpg"
+  },
+  {
+    "id": "44",
+    "pet_name": "Bubbles",
+    "gender": "male",
+    "category": "turtle",
+    "color": "golden",
+    "breed": "Painted Turtle",
+    "weight": "6kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/68/PaintedTurtle.jpg"
+    ],
+    "price": "64",
+    "description": "A unique turtle with distinctive characteristics.",
+    "owner_name": "Owner44",
+    "owner_phone": "123-456-7844",
+    "owner_location": "Nevada",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/44.jpg"
+  },
+  {
+    "id": "45",
+    "pet_name": "Simba",
+    "gender": "female",
+    "category": "cat",
+    "color": "white",
+    "breed": "Maine Coon",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://cdn2.thecatapi.com/images/Ou9KPZLSI.jpg"
+    ],
+    "price": "65",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner45",
+    "owner_phone": "123-456-7845",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/45.jpg"
+  },
+  {
+    "id": "46",
+    "pet_name": "Daisy",
+    "gender": "male",
+    "category": "dog",
+    "color": "black",
+    "breed": "Beagle",
+    "weight": "3kg",
+    "photo_urls": [
+      "https://dog.ceo/api/img/beagle/n02088364_16922.jpg"
+    ],
+    "price": "66",
+    "description": "A unique dog with distinctive characteristics.",
+    "owner_name": "Owner46",
+    "owner_phone": "123-456-7846",
+    "owner_location": "Texas",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/46.jpg"
+  },
+  {
+    "id": "47",
+    "pet_name": "Sky",
+    "gender": "female",
+    "category": "bird",
+    "color": "brown",
+    "breed": "Parrotlet",
+    "weight": "4kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/dc/Blue_Pacific_Parrotlet.jpg"
+    ],
+    "price": "67",
+    "description": "A unique bird with distinctive characteristics.",
+    "owner_name": "Owner47",
+    "owner_phone": "123-456-7847",
+    "owner_location": "New York",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/47.jpg"
+  },
+  {
+    "id": "48",
+    "pet_name": "Hazel",
+    "gender": "male",
+    "category": "hamster",
+    "color": "gray",
+    "breed": "Campbell's Dwarf Hamster",
+    "weight": "5kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/50/CampbellsDwarfHamster.jpg"
+    ],
+    "price": "68",
+    "description": "A unique hamster with distinctive characteristics.",
+    "owner_name": "Owner48",
+    "owner_phone": "123-456-7848",
+    "owner_location": "Florida",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/48.jpg"
+  },
+  {
+    "id": "49",
+    "pet_name": "Squirt",
+    "gender": "female",
+    "category": "turtle",
+    "color": "golden",
+    "breed": "Mata Mata Turtle",
+    "weight": "6kg",
+    "photo_urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/7a/MataMataTurtle.jpg"
+    ],
+    "price": "69",
+    "description": "A unique turtle with distinctive characteristics.",
+    "owner_name": "Owner49",
+    "owner_phone": "123-456-7849",
+    "owner_location": "Nevada",
+    "owner_image_url": "https://randomuser.me/api/portraits/women/49.jpg"
+  },
+  {
+    "id": "50",
+    "pet_name": "Chloe",
+    "gender": "male",
+    "category": "cat",
+    "color": "white",
+    "breed": "Ragdoll",
+    "weight": "2kg",
+    "photo_urls": [
+      "https://cdn2.thecatapi.com/images/BBil2z1Vv.jpg"
+    ],
+    "price": "70",
+    "description": "A unique cat with distinctive characteristics.",
+    "owner_name": "Owner50",
+    "owner_phone": "123-456-7850",
+    "owner_location": "California",
+    "owner_image_url": "https://randomuser.me/api/portraits/men/50.jpg"
+  }
+]
